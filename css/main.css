@@ -36,8 +36,8 @@ figure {
 
 figcaption {
   position: absolute;
-  left: 1rem;
-  bottom: 1rem;
+  left: .5rem;
+  bottom: .5rem;
   max-width: 15em;
   margin: 0;
   background-color: rgba(0, 0, 0, .6);
@@ -47,5 +47,5 @@ figcaption {
 
 figcaption p {
   margin: 0;
-  padding: 1rem 1rem;
+  padding: 1rem;
 }
